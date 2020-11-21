@@ -6,7 +6,7 @@
 
 ### Objectives
 
-- Check for all unique integers between two arrays (`arr1` and `arr2`).
+- Create a function that takes two arrays of integers (`arr1` and `arr2`) and checks for the unique (non-shared) integers between them.
 - The output should return an array with all the unique numbers (the numbers that are **not** in both arrays).
 
 ### Getting Started
